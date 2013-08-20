@@ -6,8 +6,8 @@ pack by default
 
 To install:
 
-`cd ~/.live-packs`
-`git clone git@github.com:xavriley/clojure-test-mode-pack.git`
+    cd ~/.live-packs
+    git clone git@github.com:xavriley/clojure-test-mode-pack.git
 
 Then add the following to `~/.emacs-live.el`
 
